@@ -6,7 +6,7 @@ try {
     TeamLab::initWith(
         'USERNAME', // username (email)
         'PASSWORD', // password
-        'PORAL.teamlab.com' // <portalname>.teamlab.com
+        'PORTAL.teamlab.com' // <portalname>.teamlab.com
         );
     /* 
      * GET
